@@ -3,4 +3,5 @@ body {
 }
 .container{
   align-items: center;
+  border: white;
 }
